@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 01 13:02:35 2016
 Solve ghost, beat friends
 @author: dkenefick
 """
