@@ -1,5 +1,5 @@
-# Ghost
-An (ongoing) effort to solve the game Ghost.  
-
-Currently needs the libraries:
-- nltk (for words)
+# Misc. Python Code
+A mixed bag of python programs, including:
+- An (incomplete) effort to solve the game Ghost.  
+- Messing Around with the Perceptron Algorithm
+- Topic Modeling in the Iliad
